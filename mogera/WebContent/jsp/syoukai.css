@@ -1,0 +1,17 @@
+@charset "UTF-8";
+
+body{
+  width: 80%;
+  margin: 0 auto;
+  max-width: 800px;
+}
+.center {
+  text-align: center;
+}
+.center * {
+  margin-right: auto;
+  margin-left: auto;
+}
+
+
+
